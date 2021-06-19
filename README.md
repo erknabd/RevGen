@@ -18,4 +18,4 @@ python3 RecGen.py
 4)Pip             9)Telnet
 5)Php             10)Vim
 ```
-![example](https://raw.githubusercontent.com/shexer/RevGen/main/1.PNG)
+![example](https://raw.githubusercontent.com/shexer/RevGen/main/example.PNG)
