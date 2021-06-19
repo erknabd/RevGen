@@ -17,7 +17,6 @@ attackerport = str(input("Attacker Port: "))
 def listening ():
     listen = str(input("Listen Port?(Yes/No): "))
     if listen == "YES" or listen == "Yes" or listen == "yes":
-        print(f"Listening on 0.0.0.0 {attackerport}")
         os.system(f"nc -lvp {attackerport}")
     elif listen == "NO" or listen == "No" or listen == "no":
         print("The End")
