@@ -1,5 +1,5 @@
 # RevGen
-**RevGen** _is a Reverse Shell Generator_
+**RevGen** _is a Reverse Shell Generator and Listener_
 
 ## Installation
 ```
