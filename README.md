@@ -4,11 +4,11 @@
 ## Installation
 ```
 git clone https://github.com/shexer/RevGen
-No have any requirements.
+You must install netcat.
 ```
 ## Useage
 ```
-python3 RecGen.py
+python3 RevGen.py
 ```
 ## Binaries For Reverse Shell
 ```
